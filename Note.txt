@@ -1,0 +1,7 @@
+api key:fbf6758b0d512b90d66903eb8716f65b
+
+font awesome: <script src="https://kit.fontawesome.com/996ee840cb.js" crossorigin="anonymous"></script>
+
+font: <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500&display=swap" rel="stylesheet">
+
+https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}
